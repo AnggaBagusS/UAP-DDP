@@ -1,7 +1,7 @@
 //Nama anggota :
 // Rafli Daffa Pratama 2217051131
 // Angga Bagus Susilo  2217051064
-// Intan M       	   2117051045
+// Intan M            2257051015
 #include <curses.h>
 #include <unistd.h>
 #include <windows.h>
@@ -224,7 +224,7 @@ int main(){
 			//Soal Nomor 6
 			head();
 			printw("Soal 6\n");
-			printw("Mawar melati semuanya…\n");
+			printw("Mawar melati semuanyaâ€¦\n");
 			printw("a. Indah\n");
 			printw("b. Bunga \n");
 			printw("c. Dua \n");
@@ -248,7 +248,7 @@ int main(){
 			//Soal Nomor 7
 			head();
 			printw("Soal 7\n");
-			printw("Jangan membuang tisu di…\n");
+			printw("Jangan membuang tisu diâ€¦\n");
 			printw("a. Tempatnya \n");
 			printw("b. Tempat Sampah \n");
 			printw("c. Sembarang Tempat \n");

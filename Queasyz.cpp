@@ -12,7 +12,7 @@ using namespace std;
 // Hiasan Bagian Atas
 void head(){
 	printw("======================================= \n");
-	printw("           Game LCT Komputer            \n");
+	printw("           Game Queasys            \n");
 	printw("======================================= \n\n");
 }
 
